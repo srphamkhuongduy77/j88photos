@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+J88 - Đăng Ký Tài Khoản Mới, Nhận Ngay 88K - j88.photos
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`J88 <https://j88.photos/>`_ - thương hiệu cá cược trực tuyến nổi tiếng và phát triển tại thị trường Châu Á. Thành lập năm 2018, J88 hoạt động với trụ sở tại Philippines và được tổ chức PAGCOR cấp phép hợp pháp. Sở hữu 1,5 triệu thành viên, J88 cung cấp nhiều chuyên mục game như thể thao, casino, nổ hũ, game bài, và đá gà. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+J88 nổi bật với tiềm lực tài chính mạnh mẽ, an toàn pháp lý, và giao diện thiết kế hiện đại, mang đến sự an tâm cho người chơi. Với đội ngũ chuyên gia chuyên nghiệp, J88 luôn sẵn sàng hỗ trợ người chơi, đem lại trải nghiệm thú vị và hiệu quả.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 133 Đỗ Bí, Phú Thạnh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0886032551. 
 
-.. toctree::
+Email: info@j88.photos. 
 
-   usage
-   api
+Website: https://j88.photos/
+
+#j88 #nhacaij88 #trangchuj88 #dangkyj88 #linkj88
